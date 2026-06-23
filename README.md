@@ -135,7 +135,7 @@ Published at IEEE ICMCSI 2026.
 
 ### 🏥 MediSlot - Healthcare Appointment Management System
 
-* Spring Boot + MySQL
+*  Java + Spring Boot + MySQL
 * Admin, Doctor, Patient Modules
 * Appointment Scheduling
 * Slot Management

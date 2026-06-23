@@ -78,6 +78,20 @@ public class TanzilaKhanam {
 
 
 Published at IEEE ICMCSI 2026.
+###My Contribution
+
+Contributed to research, development, testing, and documentation
+Participated in system design and performance evaluation
+Co-authored the IEEE publication presented at ICMCSI 2026
+<p align="center">
+<a href="https://github.com/sreeramamp123/rust_os">
+<img src="https://img.shields.io/badge/Collaborative_Project-RATM-blueviolet?style=for-the-badge&logo=rust"/>
+</a>
+
+<a href="https://ieeexplore.ieee.org/document/11412692">
+<img src="https://img.shields.io/badge/IEEE_Publication-ICMCSI_2026-0099CC?style=for-the-badge"/>
+</a>
+</p>
 
 
 

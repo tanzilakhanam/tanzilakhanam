@@ -1,5 +1,5 @@
 <h1 align="center">Tanzila Khanam</h1>
-<h3 align="center">Java Full Stack Developer • Rust Enthusiast • Software Engineer</h3>
+
 
 ### Software Engineer | Java Full Stack Developer | Rust Systems Programming Enthusiast
 

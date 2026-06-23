@@ -37,6 +37,14 @@ public class TanzilaKhanam {
 ---
 
 ## 📄 Research Publication
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  RATM: Reinforcement Learning for Co-Optimised CPU Scheduling               │
+│        and NUMA Memory Management in Compiler Design                        │
+│                                                                             │
+│  ▸ Presented at ICMCSI 2026 (International Conference on Mobile             │
+│    Computing and Sustainable Informatics)                                   │
+│  ▸ DOI: https://doi.org/10.1109/ICMCSI67283.2026.11412692                   │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 ### RATM: Resource-Aware Adaptive Task Manager
 
@@ -98,9 +106,20 @@ Research focused on:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanzilakhanam&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilakhanam&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzilakhanam&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanzilakhanam&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzilakhanam&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanzilakhanam&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanzilakhanam&theme=tokyonight" />
 </p>
 ---
 

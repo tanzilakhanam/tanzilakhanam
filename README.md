@@ -1,4 +1,5 @@
-# Hi 👋, I'm Tanzila Khanam
+<h1 align="center">Tanzila Khanam</h1>
+<h3 align="center">Java Full Stack Developer • Rust Enthusiast • Software Engineer</h3>
 
 ### Software Engineer | Java Full Stack Developer | Rust Systems Programming Enthusiast
 
@@ -97,9 +98,24 @@ Research focused on:
 
 ## 📊 GitHub Stats
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanzilakhanam&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilakhanam&layout=compact&theme=tokyonight"/>
+</p>
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/tanzila-khanam-73b6a82aa](http://www.linkedin.com/in/tanzila-khanam-73b6a82aa)
-* GitHub: github.com/tanzilakhanam
+<p align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tanzilakhanam">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>

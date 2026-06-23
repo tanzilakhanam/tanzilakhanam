@@ -37,25 +37,29 @@ public class TanzilaKhanam {
 ---
 
 ## 📄 Research Publication
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  RATM: Reinforcement Learning for Co-Optimised CPU Scheduling               │
-│        and NUMA Memory Management in Compiler Design                        │
-│                                                                             │
-│  ▸ Presented at ICMCSI 2026 (International Conference on Mobile             │
-│    Computing and Sustainable Informatics)                                   │
-│  ▸ DOI: https://doi.org/10.1109/ICMCSI67283.2026.11412692                   │
-└─────────────────────────────────────────────────────────────────────────────┘
+## 📄 Research Publication
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ IEEE ICMCSI 2026                                            │
+│                                                             │
+│ RATM: Resource-Aware Adaptive Task Manager                  │
+│ Reinforcement Learning for CPU Scheduling                   │
+│ and NUMA Memory Management using Rust                       │
+│                                                             │
+│ ▸ Operating Systems                                         │
+│ ▸ Reinforcement Learning                                    │
+│ ▸ Systems Programming                                       │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ### RATM: Resource-Aware Adaptive Task Manager
 
 Published at IEEE ICMCSI 2026.
 
-Research focused on:
 
-* Reinforcement Learning-based CPU Scheduling
-* NUMA-Aware Memory Management
-* Rust Systems Programming
-* Resource Optimization in Operating Systems
+
+
 
 ---
 

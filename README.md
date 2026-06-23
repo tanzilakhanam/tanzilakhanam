@@ -112,18 +112,19 @@ Published at IEEE ICMCSI 2026.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzilakhanam&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanzilakhanam&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanzilakhanam&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanzilakhanam&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzilakhanam&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilakhanam&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanzilakhanam&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanzilakhanam&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzilakhanam&theme=tokyonight" />
 </p>
 ---
 

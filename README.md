@@ -1,4 +1,7 @@
 <h1 align="center">Tanzila Khanam</h1>
+
+
+
 <p align="center">
 <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanzila-khanam-73b6a82aa/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -127,9 +130,8 @@ Published at IEEE ICMCSI 2026.
 
 ---
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 

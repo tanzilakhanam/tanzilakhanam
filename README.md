@@ -58,9 +58,9 @@ public class TanzilaKhanam {
 
 ---
 
-## 📄 Research Publication
-## 📄 Research Publication
 
+## 📄 Research Publication
+### RATM: Resource-Aware Adaptive Task Manager
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │ IEEE ICMCSI 2026                                            │
@@ -75,7 +75,7 @@ public class TanzilaKhanam {
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### RATM: Resource-Aware Adaptive Task Manager
+
 
 Published at IEEE ICMCSI 2026.
 

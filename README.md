@@ -1,5 +1,24 @@
 <h1 align="center">Tanzila Khanam</h1>
+<p align="center">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanzila-khanam-73b6a82aa/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/tanzilakhanam">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="[YOUR_IEEE_LINK](https://ieeexplore.ieee.org/document/11412692)">
+<img src="https://img.shields.io/badge/IEEE_Paper-0099CC?style=for-the-badge"/>
+</a>
+
+<a href="mailto:tanzila.raichur@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tanzilakhanam&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
 
 ### Software Engineer | Java Full Stack Developer | Rust Systems Programming Enthusiast
 
@@ -128,18 +147,4 @@ Published at IEEE ICMCSI 2026.
 </p>
 ---
 
-## 📫 Connect With Me
 
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tanzilakhanam">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>

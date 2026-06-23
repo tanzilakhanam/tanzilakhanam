@@ -119,7 +119,7 @@ Dhee Coding Lab Pvt. Ltd.
 
 📧 Email: tanzila.raichur@gmail.com
 
-💼 LinkedIn: your-linkedin
+💼 LinkedIn: https://www.linkedin.com/in/tanzila-khanam-73b6a82aa/
 
 🌐 GitHub: github.com/tanzilakhanam
 

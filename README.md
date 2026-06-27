@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="[[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanzila-khanam-73b6a82aa/)](https://www.linkedin.com/in/tanzila-khanam-73b6a82aa/)">
+<a href="https://www.linkedin.com/in/tanzila-khanam-73b6a82aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="["https://ieeexplore.ieee.org/document/11412692"](https://ieeexplore.ieee.org/document/11412692)">
+<a href="https://ieeexplore.ieee.org/document/11412692">
 <img src="https://img.shields.io/badge/IEEE_Paper-0099CC?style=for-the-badge"/>
 </a>
 
